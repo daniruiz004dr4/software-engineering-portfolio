@@ -16,7 +16,11 @@ Comprender el comportamiento de la lógica digital mediante simulaciones prácti
 ## 🔌 Circuitos desarrollados
 
 - AND
+- NAND
 - OR
+- NOR
+- XOR
+- OR 3 entradas
 - NOT
 
 ## 🧪 Pruebas realizadas
